@@ -1,7 +1,7 @@
 # ruthhernandez.github.io
 
 
-# Ive created a repository to display the stroy behind my etsy store and my brand FlowerPowr
+# Ive created a repository to display the story behind my etsy store and my brand FlowerPowr
 
 ## I want to add more features like:
 
